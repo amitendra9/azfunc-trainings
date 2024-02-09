@@ -1,2 +1,2 @@
-"# azfunc-trainings" 
+# azfunc-trainings 
 "# azfunc-trainings" 
