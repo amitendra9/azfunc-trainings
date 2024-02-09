@@ -1,0 +1,2 @@
+"# azfunc-trainings" 
+"# azfunc-trainings" 
